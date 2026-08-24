@@ -127,6 +127,10 @@ HARBORKEY_PROXY=http://user:pass@ip:port
 
 ~30–60 seconds per account.
 
+### ⚠️ Disclaimer
+
+This tool automates account creation and may violate **TokenHarbor.ai's Terms of Service**. It also relies on temporary email providers and the site's free-tier allowance. Use it **responsibly, at your own risk, and only for legitimate personal use** (e.g., your own testing). Avoid mass registration, rate-limit abuse, or anything that could harm the service or others. The author is not liable for any account bans, IP blocks, or other consequences of use.
+
 ### Important
 
 - Keys unlock the **free** model `mimo-v2.5:free` (rolling 7-day allowance).
@@ -229,6 +233,10 @@ HARBORKEY_PROXY=http://логин:пароль@ip:порт
 8. Проверка ключа через `mimo-v2.5:free`
 
 Примерно 30–60 секунд на один аккаунт.
+
+### ⚠️ Предупреждение
+
+Этот инструмент автоматизирует создание аккаунтов и может нарушать **условия использования TokenHarbor.ai**. Он также зависит от временных почтовых сервисов и бесплатного лимита сайта. Используй **ответственно, на свой страх и риск, только для легальных личных целей** (например, собственное тестирование). Избегай массовой регистрации, злоупотребления rate-limit и всего, что может навредить сервису или другим людям. Автор не несёт ответственности за блокировку аккаунтов, IP или другие последствия использования.
 
 ### Документация API
 
